@@ -90,7 +90,7 @@ The architecture of the project is depicted in the image below. Here is a high-l
 **Response Generation:** Responses are generated using the ChatGroq model, leveraging the retrieved documents for context.
 **Frontend Interface:** The user interacts with the chatbot through a web interface, which communicates with the backend via Socket.IO.
 
-![alt text](IMG-20241121-WA0002-1.jpg)
+![alt text](IMG-20241121-WA0002.jpg)
 
 
 ### Project Features
