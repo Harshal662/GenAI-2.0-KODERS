@@ -5,9 +5,9 @@ def initialize_llama_client():
     try:
         # Initialize ChatGroq client with API key and model
         client = ChatGroq(
-            model="mixtral-8x7b-32768",
-            api_key='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',
-            temperature=0.8,
+            model="mixtral-8x7b-32768", # model used
+            api_key='', # Replace with your actual API key
+            temperature=0.35,
             max_tokens=1024
         )
         print("ChatGroq client initialized successfully.")

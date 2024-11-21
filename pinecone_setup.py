@@ -4,11 +4,11 @@ from pinecone import Pinecone, ServerlessSpec
 
 def initialize_pinecone():
     # Create an instance of Pinecone
-    pc = Pinecone(api_key='5921d86c-5564-4752-8f15-195e37773e89')
+    pc = Pinecone(api_key='') # Replace with your actual Pinecone API key
     
     # Define index name and dimension
-    index_name = "testing1"
-    dimension = 3072  # Adjust based on model output dimensions if different 1536
+    index_name = "" # Replace with your desired index name
+    dimension = 3072  # Adjust based on model output dimensions if different (e.g., 768 for BERT or it will suggest automatically if its different)
 
     # Check and create index if it doesn't exist
     if index_name not in pc.list_indexes().names():
