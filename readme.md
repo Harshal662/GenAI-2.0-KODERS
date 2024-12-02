@@ -66,3 +66,5 @@ user_interface.py
 - **Chatbot Interface**: Interact with the chatbot through the web interface. Type a message and receive responses from the personalized financial assistant.
 - **Embedding Data**: Use the scripts `embed_data_from_pickle.py`, `embed_data.py`, and `embed_jsonl_data.py` to generate embeddings and store them in Pinecone.
 
+
+### For More Detail about Project Achitecture [click here](project.md)
