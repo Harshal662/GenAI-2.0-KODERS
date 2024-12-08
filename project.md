@@ -2,6 +2,10 @@
 
 This project is a personalized financial assistant developed as part of the GenAI Hackathon. It leverages various technologies such as Groq AI, Pinecone, Azure OpenAI, and more to offer tailored financial insights, product recommendations, and spending advice. The assistant helps improve customer retention, engagement, and satisfaction by providing relevant information and proactive suggestions.
 
+### Problem Statement
+
+How can Barclays harness the potential of GenAI to enhance our buisness operations and elevate the experiencce of our customers and colleagues?
+
 ### Solution introduction
 
 Bank customer segmentation with AI-Powered solutions involves using data analytics, machine learning and artificial intelligence techniques to categorize customers based on behavior, demographics, preferences, and needs.
